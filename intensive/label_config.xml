@@ -1,0 +1,11 @@
+<View>
+      <Header value="Выберите категории, которые относятся к комментарию:"/>
+      <Text name="text" value="$text"/>
+      <Choices name="sentiment" toName="text" choice="multiple" showInLine="true">
+        <Choice value="Нравится скорость отработки заявок"/>
+        <Choice value="Нравится качество выполнения заявки"/>
+        <Choice value="Нравится качество работы сотрудников"/>
+        <Choice value="Понравилось выполнение заявки"/>
+        <Choice value="Вопрос решен"/>
+      </Choices>
+    </View>

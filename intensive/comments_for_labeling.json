@@ -1,0 +1,24 @@
+[
+  {
+    "data": {
+      "text": "Отличная работа!"
+    },
+    "predictions": [
+      {
+        "result": [],
+        "score": 0
+      }
+    ]
+  },
+  {
+    "data": {
+      "text": "Быстро решили мой вопрос"
+    },
+    "predictions": [
+      {
+        "result": [],
+        "score": 0
+      }
+    ]
+  }
+]
